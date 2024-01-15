@@ -1,0 +1,26 @@
+body {
+    background-color: gray;
+}
+.card {
+    width: 400px; 
+    height: 200px;
+    background-color: white;
+    border-radius: 5%;
+    box-shadow: 0 0 10px;
+
+
+}
+
+.card_pic {
+    width: 150px; 
+    height: 150px;
+
+}
+
+.card_but {
+    background-color: transparent;
+    padding: 5px;
+    border: 1px solid #c9c9c9;
+    border-radius: 5%;
+
+}
